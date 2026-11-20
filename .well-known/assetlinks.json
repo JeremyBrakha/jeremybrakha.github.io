@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jeremybrakha.gestionbudget",
+      "sha256_cert_fingerprints": [
+        "0C:9D:DE:1B:5F:76:3E:A6:20:9A:CF:9A:2A:D9:6D:03:7E:0C:8B:B2:7B:83:9A:ED:C5:F6:13:0D:EF:EE:C4:33"
+      ]
+    }
+  }
+]
